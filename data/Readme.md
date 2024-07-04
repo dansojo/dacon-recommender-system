@@ -66,5 +66,6 @@ articleID : 기사 고유 ID
 
 
 ### article_nouns_df.csv [파일] 
-- 불필요한 컬럼 제거 (userRegion, userCountry)
+- article_info.csv 에서 작업
+- 불필요한 컬럼 제거 (userRegion, userCountry, userID)
 - article_info.csv 파일의 Title, Content 칼럼을 불용어 제거 및 명사만 추출
